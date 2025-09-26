@@ -38,7 +38,7 @@
 
 ## 🔗 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/tina-omran-1a8a0a282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
