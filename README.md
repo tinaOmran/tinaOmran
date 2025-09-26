@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Tina Omran" width="250"/>
+</p>
+
 <h1 align="center">Tina Omran</h1>
 <h3 align="center">Computer Science Student</h3>
 
