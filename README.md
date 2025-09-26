@@ -1,66 +1,19 @@
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;">
-    Hi, I'm Tina Omran 👋
-  </span>
-</h1>
-<h3 align="center">Computer Science Student • C++ | Python | SQL | Machine Learning</h3>
+<!-- ============================== -->
+<!--   🔥 HEADER WITH GIF BANNER    -->
+<!-- ============================== -->
+
+<!-- Replace the src below with the URL of your own dark GIF banner -->
 <p align="center">
-  <!-- Optional: A slim top banner image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=180&section=header&text=Tina%20Omran&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" />
-</p>
----
-
-### 👩‍💻 About Me
-I’m a **Computer Science Student** passionate about creating meaningful technology.  
-I love blending **problem-solving** with **innovation**, and I’m constantly expanding my expertise in  
-`C++` • `Python` • `SQL` • `Machine Learning`.
-
-Currently learning **Software Development** and advancing in **Deep Learning** to build intelligent, scalable systems.
-
----
-
-### ⚡ Core Skills
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,sqlite,tensorflow" height="60" />
+  <img src="https://your-gif-banner-link.gif" alt="Tina Omran Banner" width="100%" />
 </p>
 
----
-
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
+<h1 align="center">Tina Omran</h1>
+<h3 align="center">Computer Science Student</h3>
 
 ---
 
-### 🌱 What’s Next
-🔹 Diving deeper into **Deep Learning** models  
-🔹 Expanding knowledge in **Software Development** best practices  
-🔹 Preparing to share **future projects** and collaborations here
-
----
-
-### 🤝 Connect With Me
-<p align="center">
-  <!-- Update these when ready -->
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
-</p>
-
-<!--
-🎯 Replace YOUR_GITHUB_USERNAME and YOUR_LINKEDIN with your actual usernames/links.
-The "GitHub Snake" animation automatically updates to show your commit history.
--->
+## Languages
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https:/
