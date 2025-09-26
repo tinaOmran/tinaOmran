@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/adamalston/adamalston/blob/master/profile_light.gif?raw=true" alt="Tina Omran" width="250"/>
+  <img src="https://github.com/adamalston/adamalston/blob/master/profile_light.gif?raw=true" alt="Tina Omran" width="100"/>
 </p>
 
 <h1 align="center">Tina Omran</h1>
