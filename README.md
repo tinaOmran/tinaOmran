@@ -3,7 +3,8 @@
 <!-- ============================= -->
 <p align="center">
   <!-- Replace the link below with your custom GIF or banner -->
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21ia2Q5MW1tZjcyODdhOXdvY3I4emZxbDNkaXg5dTdhNnRvaDd1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3thLnRWEpRwq6iDIO/giphy.gif" alt="Tina Omran Banner" width="10%" height="10%"/>
+  <img src="https://miro.medium.com/v2/resize:fit:3640/format:webp/1*q8HNVIql60d46VWjI5i2CQ.gif" alt="Tina Omran Banner" width="10%" height="10%"/>
+  
 </p>
 
 <h1 align="center">Tina Omran</h1>
