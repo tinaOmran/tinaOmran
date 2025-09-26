@@ -1,3 +1,13 @@
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;">
+    Hi, I'm Tina Omran 👋
+  </span>
+</h1>
+<h3 align="center">Computer Science Student • C++ | Python | SQL | Machine Learning</h3>
+
+<!-- Your other sections go here -->
 <!-- Dynamic Typing Header -->
 <h1 align="center">
   <a href="https://github.com/TinaOmran">
