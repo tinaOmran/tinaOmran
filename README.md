@@ -1,11 +1,4 @@
-<!-- ============================= -->
-<!-- 🎆 HEADER / GIF BANNER -->
-<!-- ============================= -->
-<p align="center">
-  <!-- Replace the link below with your custom GIF or banner -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1nemc2M3Yzb3B5anE0M2YxcDF4bWc5NXE4eTF6NGlra29yMDdxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d2Z6aAm3Z2GdLrHi/giphy.gif" alt="Tina Omran Banner" width="130%" height="5%"/>
-  
-</p>
+
 
 <h1 align="center">Tina Omran</h1>
 <h3 align="center">Computer Science Student</h3>
