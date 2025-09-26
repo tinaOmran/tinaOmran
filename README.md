@@ -8,8 +8,7 @@
 <h3 align="center">Computer Science Student • C++ | Python | SQL | Machine Learning</h3>
 <p align="center">
   <!-- Optional: A slim top banner image -->
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=180&section=header&text=Tina%20Omran&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" alt="header](https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=180&section=header&text=Tina%20Omran&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50
-)" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=180&section=header&text=Tina%20Omran&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" />
 </p>
 ---
 
