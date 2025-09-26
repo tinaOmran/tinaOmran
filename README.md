@@ -6,15 +6,10 @@
   </span>
 </h1>
 <h3 align="center">Computer Science Student • C++ | Python | SQL | Machine Learning</h3>
-
-<!-- Your other sections go here -->
-<!-- Dynamic Typing Header -->
-<h1 align="center">
-  <a href="https://github.com/TinaOmran">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0AF0B6&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Tina+Omran!;Computer+Science+Student;C%2B%2B+%7C+Python+%7C+SQL+%7C+Machine+Learning;Exploring+Software+Development+%26+Deep+Learning" alt="Typing SVG" />
-  </a>
-</h1>
-
+<p align="center">
+  <!-- Optional: A slim top banner image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=180&section=header&text=Tina%20Omran&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student&descAlignY=55&descAlign=50" alt="header" />
+</p>
 ---
 
 ### 👩‍💻 About Me
